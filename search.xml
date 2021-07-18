@@ -2,45 +2,6 @@
 <search> 
   
   
-    
-    <entry>
-      <title>前端之路</title>
-      <link href="/2021/07/18/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%AB%AF/"/>
-      <url>/2021/07/18/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%AB%AF/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>网页的制作</title>
-      <link href="/2021/07/18/%E7%BD%91%E9%A1%B5%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A/"/>
-      <url>/2021/07/18/%E7%BD%91%E9%A1%B5%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/05/17/hello-world/"/>
-      <url>/2021/05/17/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>每个人都有着他自己的第一份代码，而大多数人的代码第一份都是HELLO WORLD。我的第一份hello world是C语言的，不知道你们又是哪个呢？</p><h2 id="C"><a href="#C" class="headerlink" title="C"></a>C</h2><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#include&lt;stdio.h&gt;</span></span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">{</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">"Hello, World"</span>);</span><br><span class="line">    <span class="built_in">return</span> 0;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><h2 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h2><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python : <span class="built_in">print</span>(<span class="string">"hello world"</span>)</span><br></pre></td></tr></tbody></table></figure><p>More : <a href="https://www.bilibili.com/video/BV1xs411Q799?from=search&amp;seid=4960850810801042851">Python Learning</a></p><p>More : <a href="https://www.bilibili.com/video/BV17s411N78s?from=search&amp;seid=4960850810801042851">C Learning</a></p><h2 id="C-1"><a href="#C-1" class="headerlink" title="C++"></a>C++</h2><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#include&lt;iostream&gt;</span></span><br><span class="line">using namespace std;</span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">{</span><br><span class="line">    std::cout &lt;&lt; <span class="string">"Hello World"</span>;</span><br><span class="line">    <span class="built_in">return</span> 0;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><p>More : <a href="https://www.bilibili.com/video/BV1Ps411w73m?from=search&amp;seid=10114692337007161569">C++ Learning</a></p><h2 id="Matlab"><a href="#Matlab" class="headerlink" title="Matlab"></a>Matlab</h2><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">disp(<span class="string">'Hello, World'</span>)</span><br></pre></td></tr></tbody></table></figure><p>More : <a href="https://www.bilibili.com/video/BV1DW411s7wi?from=search&amp;seid=16311050185464253044">Matlab Learning</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
   
   
 </search>
